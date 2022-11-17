@@ -1,1 +1,1 @@
-# selenium_webdriver_helper_js
+# selenium_webdriver_helper
